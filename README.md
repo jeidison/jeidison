@@ -7,7 +7,5 @@
 - 👨‍💻 I’m currently learning, Clean Code, Design Pattern and Data Science
 - 💚 I love PHP, JavaScript, Linux
 
-Enthusiastic about new technologies in software development, Design Patterns, SOLID. 
 Always looking for new knowledge.
-
 🚀🚀🚀
